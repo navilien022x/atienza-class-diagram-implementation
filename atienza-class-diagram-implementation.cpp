@@ -5,7 +5,7 @@
 
 using namespace std;
 
-class Product {0
+class Product {
 public:
     int id;
     string name;
